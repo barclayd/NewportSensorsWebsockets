@@ -1,0 +1,4 @@
+export const GET_DESCRIPTIONS = 'GET_DESCRIPTIONS';
+export const GET_PLACES = 'GET_PLACES';
+export const GET_IMAGES = 'GET_IMAGES';
+export const GET_ADDRESSES = 'GET_ADDRESSES';

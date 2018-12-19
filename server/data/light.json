@@ -1,0 +1,88 @@
+{
+  "Light Data": {
+    "Month1": {
+      "information": {
+        "location": "Celtic Manor Resort",
+        "address": "Coldra Woods, The Usk Valley, Caerleon, Newport NP18 1HQ",
+        "units": "lux"
+      },
+      "data": {
+        "month": "January",
+        "averageReadingValue": 523,
+        "modeReadingValue": 655,
+        "lowReadingValue": 123,
+        "highReadingValue": 899
+      }
+    },
+    "Month2": {
+      "information": {
+        "location": "Rodney Parade",
+        "address": "Rodney Parade, Rodney Road, Newport, NP19 0UU",
+        "units": "lux"
+      },
+      "data": {
+        "month": "February",
+        "averageReadingValue": 412,
+        "modeReadingValue": 784,
+        "lowReadingValue": 21,
+        "highReadingValue": 569
+      }
+    },
+    "Month3": {
+      "information": {
+        "location": "Tredegar House",
+        "address": "Tredegar House, Duffryn, Newport, NP10 8YW",
+        "units": "lux"
+      },
+      "data": {
+        "month": "March",
+        "averageReadingValue": 742,
+        "modeReadingValue": 423,
+        "lowReadingValue": 141,
+        "highReadingValue": 812
+      }
+    },
+    "Month4": {
+      "information": {
+        "location": "Tredegar House",
+        "address": "Tredegar House, Duffryn, Newport, NP10 8YW",
+        "units": "lux"
+      },
+      "data": {
+        "month": "April",
+        "averageReadingValue": 675,
+        "modeReadingValue": 666,
+        "lowReadingValue": 14,
+        "highReadingValue": 912
+      }
+    },
+    "Month5": {
+      "information": {
+        "location": "Rodney Parade",
+        "address": "Rodney Parade, Rodney Road, Newport, NP19 0UU",
+        "units": "lux"
+      },
+      "data": {
+        "month": "May",
+        "averageReadingValue": 777,
+        "modeReadingValue": 689,
+        "lowReadingValue": 121,
+        "highReadingValue": 929
+      }
+    },
+    "Month6": {
+      "information": {
+        "location": "Celtic Manor Resort",
+        "address": "Coldra Woods, The Usk Valley, Caerleon, Newport NP18 1HQ",
+        "units": "lux"
+      },
+      "data": {
+        "month": "June",
+        "averageReadingValue": 789,
+        "modeReadingValue": 713,
+        "lowReadingValue": 332,
+        "highReadingValue": 984
+      }
+    }
+  }
+}

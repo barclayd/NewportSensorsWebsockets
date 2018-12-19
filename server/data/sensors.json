@@ -1,0 +1,95 @@
+{
+  "Celtic Manor Resort": {
+    "name": "Celtic Manor Resort",
+    "key": "CelticManorResort",
+    "label": "Celtic Manor Resort is a golf, spa and leisure hotel and resort in Newport, South East Wales",
+    "location": "Coldra Woods, The Usk Valley, Caerleon, Newport NP18 1HQ",
+    "image": "celticmanorresort.jpg",
+    "sensor1": {
+      "type": "Light",
+      "currentReading": 11,
+      "min": 400,
+      "max": 1200,
+      "readingDateTime": "12-NOV-2018 10:08:59",
+      "units": "lux"
+    },
+    "sensor2": {
+      "type": "Noise",
+      "currentReading": 581,
+      "min": 0,
+      "max": 60,
+      "readingDateTime": "12-NOV-2018 10:03:13",
+      "units": "dB"
+    },
+    "sensor3": {
+      "type": "Air Quality",
+      "currentReading": 5,
+      "min": 0,
+      "max": 10,
+      "readingDateTime": "12-NOV-2018 10:01:51",
+      "units": "AQI"
+    }
+  },
+  "Tredegar House": {
+    "name": "Tredegar House",
+    "key": "TredegarHouse",
+    "label": "Set in a beautiful 90 acre park, Tredegar House is one of the best examples of a 17th century Charles II mansion in Britain. A place shaped by the local community, Tredegar House and its surrounding gardens and parkland stand proudly at the heart of Newport’s heritage",
+    "location": "Tredegar House, Duffryn, Newport, NP10 8YW",
+    "image": "tredegarhouse.jpg",
+    "sensor1": {
+      "type": "Light",
+      "currentReading": 18,
+      "min": 400,
+      "max": 1200,
+      "readingDateTime": "12-NOV-2018 10:08:59",
+      "units": "lux"
+    },
+    "sensor2": {
+      "type": "Noise",
+      "currentReading": 749,
+      "min": 0,
+      "max": 60,
+      "readingDateTime": "12-NOV-2018 10:03:13",
+      "units": "dB"
+    },
+    "sensor3": {
+      "type": "Air Quality",
+      "currentReading": 7,
+      "min": 0,
+      "max": 10,
+      "readingDateTime": "12-NOV-2018 10:01:51",
+      "units": "AQI"
+    }
+  },
+  "Rodney Parade": {
+    "name": "Rodney Parade",
+    "key": "RodneyParade",
+    "label": "Rodney Parade is a stadium in the city of Newport, South Wales. Home to Newport County FC and Dragons Rugby",
+    "location": "Rodney Parade, Rodney Road, Newport, NP19 0UU",
+    "image": "rodneyparade.jpg",
+    "sensor1": {
+      "type": "Light",
+      "currentReading": 24,
+      "min": 400,
+      "max": 1200,
+      "readingDateTime": "12-NOV-2018 10:08:59",
+      "units": "lux"
+    },
+    "sensor2": {
+      "type": "Noise",
+      "currentReading": 895,
+      "min": 0,
+      "max": 60,
+      "readingDateTime": "12-NOV-2018 10:03:13",
+      "units": "dB"
+    },
+    "sensor3": {
+      "type": "Air Quality",
+      "currentReading": 9,
+      "min": 0,
+      "max": 10,
+      "readingDateTime": "12-NOV-2018 10:01:51",
+      "units": "AQI"
+    }
+  }
+}

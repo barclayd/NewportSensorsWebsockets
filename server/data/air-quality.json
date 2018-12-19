@@ -1,0 +1,88 @@
+{
+  "Air Quality": {
+    "Month1": {
+      "information": {
+        "location": "Celtic Manor Resort",
+        "address": "Coldra Woods, The Usk Valley, Caerleon, Newport NP18 1HQ",
+        "units": "AQI"
+      },
+      "data": {
+        "month": "January",
+        "averageReadingValue": 4,
+        "modeReadingValue": 4,
+        "lowReadingValue": 3,
+        "highReadingValue": 5
+      }
+    },
+    "Month2": {
+      "information": {
+        "location": "Rodney Parade",
+        "address": "Rodney Parade, Rodney Road, Newport, NP19 0UU",
+        "units": "AQI"
+      },
+      "data": {
+        "month": "February",
+        "averageReadingValue": 5,
+        "modeReadingValue": 4,
+        "lowReadingValue": 0,
+        "highReadingValue": 9
+      }
+    },
+    "Month3": {
+      "information": {
+        "location": "Tredegar House",
+        "address": "Tredegar House, Duffryn, Newport, NP10 8YW",
+        "units": "AQI"
+      },
+      "data": {
+        "month": "March",
+        "averageReadingValue": 4,
+        "modeReadingValue": 5,
+        "lowReadingValue": 3,
+        "highReadingValue": 9
+      }
+    },
+    "Month4": {
+      "information": {
+        "location": "Tredegar House",
+        "address": "Tredegar House, Duffryn, Newport, NP10 8YW",
+        "units": "AQI"
+      },
+      "data": {
+        "month": "April",
+        "averageReadingValue": 4,
+        "modeReadingValue": 4,
+        "lowReadingValue": 1,
+        "highReadingValue": 6
+      }
+    },
+    "Month5": {
+      "information": {
+        "location": "Rodney Parade",
+        "address": "Rodney Parade, Rodney Road, Newport, NP19 0UU",
+        "units": "AQI"
+      },
+      "data": {
+        "month": "May",
+        "averageReadingValue": 5,
+        "modeReadingValue": 5,
+        "lowReadingValue": 3,
+        "highReadingValue": 8
+      }
+    },
+    "Month6": {
+      "information": {
+        "location": "Celtic Manor Resort",
+        "address": "Coldra Woods, The Usk Valley, Caerleon, Newport NP18 1HQ",
+        "units": "AQI"
+      },
+      "data": {
+        "month": "June",
+        "averageReadingValue": 6,
+        "modeReadingValue": 5,
+        "lowReadingValue": 1,
+        "highReadingValue": 7
+      }
+    }
+  }
+}

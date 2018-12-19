@@ -1,0 +1,88 @@
+{
+  "Noise": {
+    "Month1": {
+      "information": {
+        "location": "Rodney Parade",
+        "address": "Rodney Parade, Rodney Road, Newport, NP19 0UU",
+        "units": "dB"
+      },
+      "data": {
+        "month": "January",
+        "averageReadingValue": 29,
+        "modeReadingValue": 26,
+        "lowReadingValue": 2,
+        "highReadingValue": 59
+      }
+    },
+    "Month2": {
+      "information": {
+        "location": "Tredegar House",
+        "address": "Tredegar House, Duffryn, Newport, NP10 8YW",
+        "units": "dB"
+      },
+      "data": {
+        "month": "February",
+        "averageReadingValue": 35,
+        "modeReadingValue": 31,
+        "lowReadingValue": 4,
+        "highReadingValue": 55
+      }
+    },
+    "Month3": {
+      "information": {
+        "location": "Celtic Manor Resort",
+        "address": "Coldra Woods, The Usk Valley, Caerleon, Newport NP18 1HQ",
+        "units": "dB"
+      },
+      "data": {
+        "month": "March",
+        "averageReadingValue": 42,
+        "modeReadingValue": 26,
+        "lowReadingValue": 3,
+        "highReadingValue": 57
+      }
+    },
+    "Month4": {
+      "information": {
+        "location": "Tredegar House",
+        "address": "Tredegar House, Duffryn, Newport, NP10 8YW",
+        "units": "dB"
+      },
+      "data": {
+        "month": "April",
+        "averageReadingValue": 32,
+        "modeReadingValue": 26,
+        "lowReadingValue": 4,
+        "highReadingValue": 46
+      }
+    },
+    "Month5": {
+      "information": {
+        "location": "Rodney Parade",
+        "address": "Rodney Parade, Rodney Road, Newport, NP19 0UU",
+        "units": "dB"
+      },
+      "data": {
+        "month": "May",
+        "averageReadingValue": 25,
+        "modeReadingValue": 34,
+        "lowReadingValue": 0,
+        "highReadingValue": 56
+      }
+    },
+    "Month6": {
+      "information": {
+        "location": "Celtic Manor Resort",
+        "address": "Coldra Woods, The Usk Valley, Caerleon, Newport NP18 1HQ",
+        "units": "dB"
+      },
+      "data": {
+        "month": "June",
+        "averageReadingValue": 22,
+        "modeReadingValue": 54,
+        "lowReadingValue": 0,
+        "highReadingValue": 58
+      }
+    }
+  }
+}
