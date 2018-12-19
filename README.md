@@ -6,7 +6,15 @@ React 16 web app using websockets with client and server to communicate light, a
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
 ## Screenshots and GIFs
-Include logo/demo/gif/screenshots etc.
+
+##### User Experience and mobile friendly design
+![UX](https://user-images.githubusercontent.com/39765499/50238989-c1b15180-03b8-11e9-9a57-df285d81e415.gif)
+
+##### Responsive Design and sensors/websockets functionality
+![sensors data](https://user-images.githubusercontent.com/39765499/50239135-443a1100-03b9-11e9-92ce-266d3b4c1c6d.gif)
+
+##### Full screen cards
+![Cards - responsive design](https://user-images.githubusercontent.com/39765499/50238996-c8d85f80-03b8-11e9-9c53-d94f7b013dc1.png)
 
 ## Tech/framework used
 Ex. -
@@ -44,7 +52,8 @@ Clean, crisp card based responsive design that dynamically loads content from se
 ## Installation of Server
 
 ```sh
-npm run server
+cd server
+$ npm run start 
 ```
 
 ## Installation of Client
